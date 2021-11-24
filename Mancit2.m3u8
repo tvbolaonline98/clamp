@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bf.thcydzsw.com/live/fulante.m3u8
+https://d17lu2syx7ax41.cloudfront.net/live/streamhd10560.m3u8?Expires=1637818500&Signature=g1ZhCE7Pp9xPJIj117vRdGuDOMJzIy7U~Hip3EjmLt-GN9JikVLJDx5eyVjxuqq6QymhdIxw52v9Vq6i4XtnBiNM40fS~hozaUwMFKKzmI7b7uB1IATcqhtgMteYTL8-TrxnPDdoSSwFk7SiVJgK8TpZ~6vLyznxAsM3EP8lsnFpcZ-lXCYxpnVSBNFVirQHhZvmSa8gBIyfQ9Jnk1KQnH6JGdW1-cagSN1lrnKpdxRo9zH0WH30WjlSHmha7QsqVz3UXWBvlys8ujtjjEJqzf16V1HCI2tg8jsqJocLZPI6oemXGHss1u50MwNEzFaLJZupaBK~Ky6iK29eZaaMig__&Key-Pair-Id=K1SXOWNSQGJT65
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://f1.aminouras.xyz/live/6161655001/index.m3u8
+https://bf.thcydzsw.com/live/fulante.m3u8
