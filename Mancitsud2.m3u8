@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live.vimeocdn.com/1637784075-0x49a7917d833e5d0b5dc389e20cac82a07e701b24/44f2ceb8-2ac9-4c53-bb8b-7246be0e2529/chunklist_b728000.m3u8
+https://live.vimeocdn.com/1637789087-0x51035147bc6c1233d3badf2104f2803f86364e4c/44f2ceb8-2ac9-4c53-bb8b-7246be0e2529/chunklist_b728000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://live-ak.vimeocdn.com/exp=1637784069~acl=%2F44f2ceb8-2ac9-4c53-bb8b-7246be0e2529%2F%2A~hmac=73525662d565d12f50c476fbd313c236750cbfa45246b34e7fd4098d41e9c20d/44f2ceb8-2ac9-4c53-bb8b-7246be0e2529/chunklist_b416000.m3u8?max_segments=10&min_seconds=30
+https://google-br.cdn.booyah.live/hls/1500114/98742680.m3u8
