@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch29/playlist.m3u8?t=1637696595&a=114.10.18.250&u=c2127d041150f4a4c5f48263b5682490&k=10a98198dcb795c2f32ece9ebc8cebe1
+http://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/yyP_YPAcShOBYSO07ND0_5Vsmg7d_PKOdYlhJVZcsob_tRHG81ZqFPkgSSSd5axB-l_Vr5YWjifStWpnSKOrrg/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch29/playlist.m3u8?t=1637696595&a=114.10.18.250&u=c2127d041150f4a4c5f48263b5682490&k=10a98198dcb795c2f32ece9ebc8cebe1
+link
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
 (LINK)
