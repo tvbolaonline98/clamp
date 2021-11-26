@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+#EXTVLCOPT:http-user-agent="la0aoe2dmxzxvc3giifyt1g7j"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/yyP_YPAcShOBYSO07ND0_5Vsmg7d_PKOdYlhJVZcsob_tRHG81ZqFPkgSSSd5axB-l_Vr5YWjifStWpnSKOrrg/non_transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/master_dynamic_highlatency.m3u8?type=live
+http://chouflive.ddns.net:8080/6Z25hYP79a/bMVnnRh8aB/1073
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 link
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
