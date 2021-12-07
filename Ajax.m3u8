@@ -2,8 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://google-br.cdn.booyah.live/hls/1500114/98742680.m3u8
+http://hls.luziedu.com/livestream/ch31/playlist.m3u8?t=1638902364&a=114.10.5.222&u=c77b7e814adda69007c8cf31b17fcaa8&k=612ff822417fa960a5bfe4da50fdbea0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://bf.thcydzsw.com/live/luocheng.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
-(LINK)
+https://bf.gsytszgc.com/live/shanmu.m3u8
