@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://s.shidurlive.com/app/18868/chunklist.m3u8?h=wlTRu-MmQSn0n5VOpSBc_Q&e=1638925347&uid=4697f1b2db345791a74f6be363f1a692
+https://cdn3.wowza.com/1/dWtWM3Z3dG45eCt4/TmRLSmZQ/hls/hltpj85x/2728/chunklist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://www.wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
