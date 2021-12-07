@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d2uzamkl9z2jty.cloudfront.net/out/v1/3af2c32625d94041b655627d4adaba7c/index_4.m3u8
+http://hls.luziedu.com/livestream/ch32/playlist.m3u8?t=1638902256&a=114.10.5.222&u=e66e53b93a448926694e74bfe6d1acb6&k=995a0a053a0d59d069c4d35bbcc25daf
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://95-213-224-176.livesports24.online/ntvmatchfoot1.m3u8
+https://bf.gsytszgc.com/live/xiaolin.m3u8
