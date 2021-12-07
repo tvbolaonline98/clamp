@@ -2,8 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-ak.vimeocdn.com/exp=1637779080~acl=%2F7c88747d-8d65-49ac-a0ab-c8aeca0c0be5%2F%2A~hmac=28cfb08656ce1d132f8af3cbaa2a39512c5a9c225b2a4267ad5e4d079b835595/7c88747d-8d65-49ac-a0ab-c8aeca0c0be5/chunklist_b728000.m3u8?max_segments=10&min_seconds=30
+https://www.wopep.com/02_epl2_720p/chunklist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
-(LINK)
+https://www.wopep.com/02_epl2_720p/chunklist.m3u8
