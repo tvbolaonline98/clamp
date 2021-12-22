@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d385rn79iu063n.cloudfront.net/hls/bein/chunks.m3u8
+https://d2n97s4tqtd7fm.cloudfront.net/stream/MjI0Mw==/1080p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 http://hls.luziedu.com/livestream/ch3/playlist.m3u8?t=1640199972&a=51.81.223.206&u=d5da3057b199779a395a203abcdea4a6&k=900cd8776ae7f1907b9fab87d1aeec42
