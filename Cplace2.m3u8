@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch32/playlist.m3u8?t=1638902256&a=114.10.5.222&u=e66e53b93a448926694e74bfe6d1acb6&k=995a0a053a0d59d069c4d35bbcc25daf
+http://hls.luziedu.com/livestream/ch1/playlist.m3u8?t=1641644871&a=114.10.6.31&u=3d8cd3d0f09f7b3ced46a12dc1279bcf&k=613a2c0b990759dcfd0c83c58e43ec24
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://bf.gsytszgc.com/live/xiaolin.m3u8
+link
