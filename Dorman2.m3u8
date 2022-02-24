@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dcisiz1qfkk6q.cloudfront.net/stream/Mjk4MA==/1080p.m3u8
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/SBwtNtjEdv42IS7GGG93oSys1UUerciKMn4SB0rEz0lr4tjKAEncUgc2bjQyUvqRwB4R5prCypVAtogUKkrmQA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://live01-ali.myeogm.com/live/gutiyu3.m3u8?auth_key=1645652100-6b60fd48c4594363bd6e99ddc43bd3ea-0-49b9847257df7fa59c14f7a63d023561
+ll
