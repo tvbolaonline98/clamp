@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://d31xfszmyhyn2v.cloudfront.net/stream/Mjc2NA==/1080p.m3u8
+https://video.zettao.com/org/44278013/playlist.m3u8?time=1646258726&auth_token=fb5752394802a9eb3f5125699d2e7bdb&wsSession=dd299f6eb3b0bd2afa62a040-164624792712499&wsIPSercert=20a07e60ddcdeaa8811e7b6828aa28d6&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch36/playlist.m3u8?t=1644063819&a=114.10.6.163&u=cecf2bf1a07fda48d7c657e2699bbde2&k=f400015447262284d17908f78752b50b
+ll
