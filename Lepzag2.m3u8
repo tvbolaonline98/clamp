@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.lanjing.live/live/1571475.m3u8?auth_key=1646253275-40504800-0-33b94388c93664c501a6b0d233346a4a
+http://hls.luziedu.com/livestream/ch16/playlist.m3u8?t=1646241398&a=114.10.23.241&u=0700373278aaa2aaefa9a90ebc2a0a5a&k=f67d173c25b5eadfd10e8bc488d4eb4d
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 http://hls.luziedu.com/livestream/ch16/playlist.m3u8?t=1646241398&a=114.10.23.241&u=0700373278aaa2aaefa9a90ebc2a0a5a&k=f67d173c25b5eadfd10e8bc488d4eb4d
