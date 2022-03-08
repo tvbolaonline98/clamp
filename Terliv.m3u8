@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/w6e088wNylKLzYVURQZBDkabh9q-NvHbOloQ_XL53sufsnwMDgN3iZlRp46MU2Iffvn4F3I37tDADubDqyN8vw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-ll
+https://video.zettao.com/org/44818966/playlist.m3u8?time=1646780265&auth_token=f5e0aa30d66ad20cfc304578d729e4ad&wsSession=6d72eb755f19944b0ecdf481-164676946809969&wsIPSercert=d0211c361e26b816f0e634efcb7c564c&wsMonitor=0
