@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/2DLmyqhAhN5fbBmpF_PQESxlYifhMG3wOaZgprrI8CV8wt6MqIA_KEyQw1r0WZNq6B2o6q-Rkf6Hf-2mtvY4DQ/transcode/sa-east-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 ll
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
+https://play.brasiltvweb.com/v3/youshi/m4_ymZnQGTRxLhgzKBYlOekpfso_480p.m3u8?dev_limit=1&user_id=42166598&app_id=com.global.brasiltvweb&session_id=bIN7yiLdiqMx&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&client_ip=2804:5310:50ca:ec00:f5ac:e87a:9367:37a8&rst_status=0&main_addr=https://play.brasiltvweb.com/v3/youshi/&dev_id=22234262&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1646866504&token=5C36B4431324087F609285346A464C44&media_code=m4_ymZnQGTRxLhgzKBYlOekpfso_480p
