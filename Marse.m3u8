@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/GA3Go_6Hh44gFBEhrV-7KKsWmOCTZ9A9wJCqIjHwtVU1SUN9mfYkSYeHCtimd44WM1xXpylTn9K_rWGvNzICgw/transcode/sa-east-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+https://video.zettao.com/org/45392733/playlist.m3u8?time=1646952836&auth_token=38dd101de9035d013b603344f5176f97&wsSession=6d72eb755f19944b0ecdf481-164694203665397&wsIPSercert=aa3eb248761a5badf754c97b49db0207&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://video.zettao.com/org/44277530/playlist.m3u8?time=1646262323&auth_token=8b7e8b5359e9cbf1e017e6d391fca314&wsSession=972082b8ca6442985511e5d2-164625152398973&wsIPSercert=20a07e60ddcdeaa8811e7b6828aa28d6&wsMonitor=0
+lll
