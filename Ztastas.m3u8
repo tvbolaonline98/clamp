@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTVLCOPT:http-user-agent=Tgh67Rcbe893ghTgfd435Ax8888
+#EXTVLCOPT:http-user-agent="Tgh67Rcbe893ghTgfd435Ax8888"
 
 http://hightv178.dyndns.tv:2030/streams/70_.m3u8
