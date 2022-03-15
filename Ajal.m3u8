@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/gQdrhKpbLDgdgyoXwAvTvhBnN9T4V7ieCYTgCT7-dSmhWzu5_S3Oo7EAy9u9kSPM7PPdwLmPvJqlVUPA5SaGgA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://139.162.152.34/live/abr_b-2/live/b-2/chunks.m3u8?BONGSTREAMS=
+ll
