@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://etslive-2-vidio-com.akamaized.net/exp=1647018987~acl=/hls-p/ingest_8026_*/*~hmac=916510170b6e209f5eb7dab7e7ed51418dacc78293e276d50c669e8924686af2/hls-p/ingest_8026_1080p/index.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0UwuhKjBhR9Hy_ciKusttso9erGqjy0U4KOEA_3EdnzyFWekrA2SXwFBTyIXnSwkXuTiz95VNWyXf_WwuxkUCg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1647018987~acl=/hls-p/ingest_8026_*/*~hmac=916510170b6e209f5eb7dab7e7ed51418dacc78293e276d50c669e8924686af2/hls-p/ingest_8026_720p/index.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0UwuhKjBhR9Hy_ciKusttso9erGqjy0U4KOEA_3EdnzyFWekrA2SXwFBTyIXnSwkXuTiz95VNWyXf_WwuxkUCg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1647018987~acl=/hls-p/ingest_8026_*/*~hmac=916510170b6e209f5eb7dab7e7ed51418dacc78293e276d50c669e8924686af2/hls-p/ingest_8026_480p/index.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0UwuhKjBhR9Hy_ciKusttso9erGqjy0U4KOEA_3EdnzyFWekrA2SXwFBTyIXnSwkXuTiz95VNWyXf_WwuxkUCg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.akamaized.net/exp=1647018987~acl=/hls-p/ingest_8026_*/*~hmac=916510170b6e209f5eb7dab7e7ed51418dacc78293e276d50c669e8924686af2/hls-p/ingest_8026_360p/index.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/0UwuhKjBhR9Hy_ciKusttso9erGqjy0U4KOEA_3EdnzyFWekrA2SXwFBTyIXnSwkXuTiz95VNWyXf_WwuxkUCg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
 https://etslive-2-vidio-com.akamaized.net/exp=1647018987~acl=/hls-p/ingest_8026_*/*~hmac=916510170b6e209f5eb7dab7e7ed51418dacc78293e276d50c669e8924686af2/hls-p/ingest_8026_240p/index.m3u8
