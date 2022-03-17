@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video.zettao.com/org/45392789/playlist.m3u8?time=1646945000&auth_token=e8682f5ea52fd617678d6dde5ba8f904&wsSession=615984f18dad7996cc7d867f-164693420136753&wsIPSercert=457bce0f02ecc434507f2949399a8f45&wsMonitor=0
+https://live01-ali.myeogm.com/live/aiqiyi2.m3u8?auth_key=1647554700-787b1a633a404a6eb1793789d57b359d-0-196141884c660280d11a58a4319506ed
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/gMeUXjYvOX-XdieXJuSrw3yLGlecOYx5rSMuBEoYciEBfatGdVRNvCt4d7EYyDkbJLhE3WBC7Aws3Wt1z6PJug/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+lkl
