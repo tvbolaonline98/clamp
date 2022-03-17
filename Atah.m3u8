@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ifndocWbSEeVJ9ytGWFzP6vpfXzeLVImgrHYWG4tqsbDpHq4Xek1i8_sUSaB15tWz-YWPYLPu0H0pmVxGlO0QQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+http://hls.luziedu.com/livestream/ch18/playlist.m3u8?t=1647538276&a=114.10.19.136&u=908147f865bc28f7eeb9cf5084563d5a&k=ff1d37ff17b2cd20febe6eb1d3f0b23e
