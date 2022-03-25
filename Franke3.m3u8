@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=720p,RESOLUTION=854x480
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://vdsx.glletle1.com/v3/youshi/m3_DFwhzUuzfistv1_480p.m3u8?client_ip=2804:3d28:2:ec9:937:a3d5:1985:750&app_id=com.global.brasiltvweb&user_id=51589068&app_ver=10101&session_id=SC7MJANsFLq&dev_limit=1&auth_id=51589068_com.global.brasiltvweb&rst_status=0&dev_id=f3d80c59&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&main_addr=https://vdsx.glletle1.com/v3/youshi/&expired=1648249831&token=E2C9668827E3965BCFD7FD6B5AAB2351&media_code=m3_DFwhzUuzfistv1_480p
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=480p,RESOLUTION=854x480
-lkl
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+http://db59nrrlltjzg.cloudfront.net/stream/MzM4MQ==/1080p.m3u8
