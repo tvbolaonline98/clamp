@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/nFp9FMD1ii8Xxp5cEDi4pFrVoqloLMtOI0wCtolW0N3dW8p7dc60vgK5Xj6PvHD-4h2hC87ZNpHsWc-_UCerUA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+https://vdsx.glletle1.com/v3/youshi/m3_eargH0Pv9qstv4_480p.m3u8?session_id=hpzdM8p6PeWg&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_limit=1&client_ip=2804:5484:a:b6e0:6cb4:991:82ca:7c32&user_id=42166598&rst_status=0&main_addr=https://vdsx.glletle1.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&dev_id=6f512ceb&expired=1648592455&token=8E29D018FB1BB9A38B7003FC1B8E0A12&media_code=m3_eargH0Pv9qstv4_480p
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 lkl
