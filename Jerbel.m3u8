@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-lklk
+https://d17lu2syx7ax41.cloudfront.net/live/stream285010.m3u8?Expires=1648614000&Signature=OUMvdF53I7BbiXjY4e8HZ0EA4VMAykh9Gq0uV3pX5eU8D2vQOrBrWXfuzwn3CCPT1DHbe5HBQHxiunerUkeGjiDbo35-umg3I1VR8RU98ssi1T~OG3Fx7dEmmLwTNKdg~h4LoUgWGXPtlzgIQUFG1b564E8JiGE~V1l41OZST1qJt0G5-Yce9wJ3eNrJZqZWejGBN4cDP11Wph~lPWmGVmpIDaU6vZOxxZ~2teR3GDgEZMynsMLyQ-O1iifSHmicPpTHobZgYN2DDe6zdqac6Rkbv856uYPrYVQgF82WQFKuuB1oQAdUrAeJtX9ifKgvqvRChotbZpACVmZ57w~ovQ__&Key-Pair-Id=K1SXOWNSQGJT65
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/pCc0xqpZs-K_DirH-wM2c1eCnhkq1QQ8tF5Vnibtvl-8tWHhlnflPM82blkq2IFp3lhfWKejdAyDNfoNPBIO5w/non_transcode/us-west-2/periscope-replay-direct-prod-eu-west-3-public/dynamic_highlatency.m3u8?type=live
