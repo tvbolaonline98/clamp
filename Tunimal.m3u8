@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://hll.hnzzdf.com.cn/live/H94680.m3u8?txSecret=5b51c41a6e47233074db4c6d6bbc6bc0&txTime=623DAE86&_s=stream
+http://56.banroudara.xyz.global.prod.fastly.net/live/059/index.m3u8?t=Qv5DsorNaU5njKY5ahjwuA&e=1648544622
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://play.bear0625.cn/tianxiatv/stream-c9b5a483409c493bb5514155542c692d.m3u8
+lkl
