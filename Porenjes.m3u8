@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://video2.kgkco.com/org/46695294/playlist.m3u8?time=1649368183&auth_token=0e28930f8bc4fd3c0df5bfc394125b3e&wsSession=f505dd5cd3e29c06c5f7fa5b-164935739475383&wsIPSercert=63af8600996e4d35c12062762f8f791e&wsMonitor=0
+https://acdn.zhengyaning.com/xoilac/channel-5.m3u8?auth_key=1645859296-0-0-85a698c78d1d59e34239c8e598b43d38
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://acdn.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1645859322-0-0-fae0eb082f6836877046b19a4df6672a
+https://acdn.zhengyaning.com/xoilac/channel-5.m3u8?auth_key=1645859296-0-0-85a698c78d1d59e34239c8e598b43d38
