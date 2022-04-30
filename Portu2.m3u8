@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://video2.kgkco.com/org/48584584/playlist.m3u8?time=1651342920&auth_token=4f5c04d9aae078bfa96abefaee4e6075&wsSession=393296b31fc4f379ee7a3dda-165133212142484&wsIPSercert=854de511fadfdd87e463300e3efab16f&wsMonitor=0
+http://hls.luziedu.com/livestream/ch13/playlist.m3u8?t=1651341285&a=114.10.11.10&u=da36fd65f0def0c8bba64211c142292f&k=ecbcffc17c7a547a1a7dacbff96b080d
