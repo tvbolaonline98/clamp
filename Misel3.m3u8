@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 lkk
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://rmue2hq1pcliv.vcdn.cloud/48b6dfcbe26125120c3cc552a7b7f470/1651813913512/lhsazur/lhsazur@720p.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/192uzl5VaYICqlviSNwEvEIZ8R21HTyUFUiSdITy0nPzVBUoPjPBGEjDfHEojb0T0tZPWTScRZcd1pqFzPRRKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
