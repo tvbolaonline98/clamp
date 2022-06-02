@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/hbs_tDeaBWWB1KG1zkuQwL0OrVdNLY-5UCZUV6YCjyPTgjb9nt81Fdl9i5cVP7DbxtX4EDEZ9cKC3sKpdGUU0Q/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8?type=live
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://acdn.livestreambong.tv/xoilac/channel2.m3u8?auth_key=1652452929-0-0-391115f1a8fb7804e02c1b66cd40a226
+https://venus.meta-scores.com/17762cc458_fhd2/17762cc458_fhd2@720p.m3u8
