@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://venus.meta-scores.com/af7657ddb4/af7657ddb4@720p.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 l
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_1080p/chunks.m3u8?p=53&s=1655230925&e=1655317325&cf=1655317325&h=6fd33ab303c5dc27e9ec73ed65fa3636
