@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://zalogitv.tech:8080/live/zalogilite/pencuriLinkmaulolos/26430.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://pl1cdn.plusx.tv:8880/301fps/mono.m3u8?token=0a1e9c6fe5eb3b232a3333
