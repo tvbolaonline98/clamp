@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://web-livecdn.fptplay.net/hdevent/fsport01_hls.smil/chunklist_b1200000.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1656774836~acl=/hls-p/ingest_6686_*/*~hmac=3edb88426f3982c67926c13724a93b8734ebb7286d1da5c393f74beaf2752aee/hls-p/ingest_6686_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 l
