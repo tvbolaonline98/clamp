@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://livestream-2.socialstreaming.tv/live/62c01879b8eb95001d2c43a3/62c01879b8eb95001d2c43a3.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1656774730~acl=/hls-p/ingest_205_*/*~hmac=da83df5660f50adcf1ddb9177a46d99a3e989776c029d70f623d4ad9c8898f57/hls-p/ingest_205_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-l
+https://livestream-2.socialstreaming.tv/live/62c01879b8eb95001d2c43a3/62c01879b8eb95001d2c43a3.m3u8
