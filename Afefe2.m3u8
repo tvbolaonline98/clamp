@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://179720687.global.cdnfastest.com/live/may91/chunklist.m3u8
+https://web-livecdn.fptplay.net/hdevent/fsport01_hls.smil/chunklist_b1200000.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 l
