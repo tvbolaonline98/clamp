@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-l
+https://etslive-2-vidio-com.akamaized.net/exp=1656952799~acl=/hls-p/ingest_9211_*/*~hmac=af12b90b736ce97efcc907e9c555f57cfc6a80cde66dc6ef207aa5fe583ee169/hls-p/ingest_9211_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 https://rmue2hq1pcliv.vcdn.cloud/0a2413ad21afaef338761bef876b2b3a/1656980307176/lhsazur/lhsazur@720p.m3u8
