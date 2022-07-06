@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://oklive6-1.vkuser.net/hls/2660259072585.m3u8/sig/d9Wzv1MfcGs/expires/1657199315814/srcIp/114.10.20.5/urls/185.226.53.47/clientType/0/srcAg/CHROME_ANDROID/mid/3800778481225/2660259072585_lowest/index.m3u8?p
+https://standard-pull.iubetter.com/bosh/10021_831938_lsd.m3u8?auth_key=1657196924-0-0-29d77d19237a511dbc51c61462620632
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 https://livestream.socialstreaming.tv/live/62c57c80ee629b001d167760/62c57c80ee629b001d167760.m3u8
