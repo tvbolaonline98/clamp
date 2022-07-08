@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://web-livecdn.fptplay.net/hdevent/fsport01_hls.smil/chunklist_b1200000.m3u8
+https://id5-play.score808tv.cc/hls/sport/c_111460/index.m3u8?token=ZjFiZjYwYjk1NjNhNGEwNzg4NGNiMjllYWVkMDFkNDIxNjU3Mjg4ODAwMDAwV0NTelNRdEhndFpid0E4&p2pRegionCode=indonesia&hycid=220706_sW1UHvIgW82NFNkQ-MKp5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 l
