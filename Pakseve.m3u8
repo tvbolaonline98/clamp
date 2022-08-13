@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://video2.kgkco.com/org/53424364/playlist.m3u8?time=1659819906&auth_token=e1b717c641fe6ac902b38bc51f66e43b&wsSession=fbd1d9d39283847eafdfb3ae-165980910802116&wsIPSercert=9310c3e85be6491d4b88064f9e793a98&wsMonitor=0
+https://pull.zygmsg.com/armenia/946739184.m3u8?auth_key=1660424584-0-0-dfe696b1b11ccb692b29203efb5e35cb
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://rmue2hq1pcliv.vcdn.cloud/3328a44fc425805d2a8b58bcae74a781/1658032952610/vbyuizw/vbyuizw@720p.m3u8
