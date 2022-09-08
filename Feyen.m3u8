@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-l
+https://d33481fd66d4eb6.cmccloud.com.vn/vod/hls/jB1BLZ7VMD/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://roi-tv.net:9000/live/servicesiptvforever/skype-26-11-2019-LLkx/219.m3u8
+l
